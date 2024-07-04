@@ -1,4 +1,4 @@
-import { LoginMethods } from "./Pages/Login/login.methods"
+import { LoginMethods } from "./Login/Login/login.methods"
 
 describe('template spec', () => {
   it('passes', () => {
